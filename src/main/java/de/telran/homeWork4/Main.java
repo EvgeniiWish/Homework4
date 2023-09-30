@@ -1,4 +1,4 @@
-package de.telran;
+package de.telran.homeWork4;
 
 
 public class Main {
